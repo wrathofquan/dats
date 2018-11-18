@@ -23,7 +23,7 @@ for long-term archiving for others to discover. We will cover Dataverse, Dash/Dr
 
 - WTF is a Repository and why are there so many?
 - Why sharing data is easier with a Repository designed for archiving and discovery
-- Dataverse, Zenodo, Dash/Dryad, OSF, ICPSR, Github
+- Learn a little about: Dataverse, Zenodo, Dash/Dryad, OSF, ICPSR, Github
 - Searching for Data in Repositories
 - APIs + Tools to work with repositories
 
@@ -35,7 +35,18 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 ...So it's a place to put your data and analysis scripts that will be accessible beyond the life of a research project, grant, or individual career.
 
-## Things to Consider
+
+
+## A minimum rationale for depositing/sharing...
+
+1. Sharing your data gives you credit for your work that everyone can see
+
+2. Your hard work will persist and be discoverable
+
+... fulfills the most basic components of [F.A.I.R principles](https://www.go-fair.org/fair-principles/) for scientific data
+
+
+## Things to Consider when choosing a Repository
 
 #### Reputation
 
@@ -53,9 +64,8 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 - Is the owner/manager of the content reliable?
 
-<details>
 ![](../images/archives/git.gif)
-</details>
+
 
 
 
@@ -95,7 +105,10 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 - However, the downside of general repositories is that because there is a lot of everything, users might have more difficulty finding your work.
 
 ### General repositories
+
 - [Harvard Dataverse](https://dataverse.harvard.edu/): Harvard’s Dataverse is both a [platform](http://dataverse.org/) for institutions and a data repository. Backed and developed by Harvard’s IQSS, Libraries, and Information Technology, Dataverse has 22 installations with over 48,000 datasets, and 2 million downloads.
+
+![](https://pbs.twimg.com/media/DqGmSvLWsAAzAxn.jpg)
 
 - [UC Dash](https://dash.berkeley.edu/stash) is an open-source, self-service toolkit for managing, openly publishing, and effectively describing data for access and reuse. Dash features geolocation metadata, ORCID, DOI, and FundRef identifiers, and generates a citation for all of your datasets. Additionally, Dash allows you to set a timed-release of data while undergoing peer-review.
 
@@ -136,6 +149,10 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 
 - A play example of using the `dataverse` package in R to search for data and download it.
+
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wrathofquan/dataverse-R/master)
+
+
   - Check out the [vignettes](https://cran.r-project.org/web/packages/dataverse/vignettes/A-introduction.html) for more
 
 
