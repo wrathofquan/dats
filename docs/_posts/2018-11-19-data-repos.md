@@ -114,6 +114,8 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 ![](https://pbs.twimg.com/media/DqGmSvLWsAAzAxn.jpg)
 
+  -[some cool ideas floating around](https://github.com/IQSS/dataverse/issues/4714)
+
 - [UC Dash](https://dash.berkeley.edu/stash) is an open-source, self-service toolkit for managing, openly publishing, and effectively describing data for access and reuse. Dash features geolocation metadata, ORCID, DOI, and FundRef identifiers, and generates a citation for all of your datasets. Additionally, Dash allows you to set a timed-release of data while undergoing peer-review.
 
 - [Zenodo](https://zenodo.org/): Funded by [CERN](http://home.cern/), [OpenAIRE](https://www.openaire.eu/), and [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
@@ -167,7 +169,7 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 ## On your own
 
-Using the [Comparative Overview of Features](https://docs.google.com/spreadsheets/d/1KptHzDHIdB3s1v5m1mMwphcwXhOVWdkRYdjEWW1dqrE/edit#gid=355072175) document as a template, think about your own research and the kind of repository (general vs. specific) that makes the most sense for your archival needs. 
+Using the [Comparative Overview of Features](https://docs.google.com/spreadsheets/d/1KptHzDHIdB3s1v5m1mMwphcwXhOVWdkRYdjEWW1dqrE/edit#gid=355072175) document as a template, think about your own research and the kind of repository (general vs. specific) that makes the most sense for your archival needs.
 
 
 ## Contacts
