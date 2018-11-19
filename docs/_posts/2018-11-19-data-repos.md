@@ -21,9 +21,8 @@ for long-term archiving for others to discover. We will cover Dataverse, Dash/Dr
 
 ### Objectives:
 
-- WTF is a Repository and why are there so many?
-- Why sharing data is easier with a Repository designed for archiving and discovery
-- Learn a little about: Dataverse, Zenodo, Dash/Dryad, OSF, ICPSR, Github
+- Why sharing datasets is easier with a Repository designed for archiving and discovery
+- Learn a little about: Dataverse, Zenodo, Dash/Dryad, OSF,  
 - Searching for Data in Repositories
 - APIs + Tools to work with repositories
 
@@ -73,7 +72,7 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 - One of the primary reasons to deposit your data in a repository is to obtain a unique identifier that others can use to cite your data. This service will increase the visibility of your data within the scholarly literature and allows researchers to find it later on.
 
-- Ensure your data repository offers a DOI (digital object identifier), handle, or another unique indentifer.
+- Ensure your data repository offers a DOI (digital object identifier), handle, or another unique identifer.
 
 #### Usability
 
@@ -85,7 +84,7 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 - Some data repositories have really great features like integrations with Open Science Framework, GitHub, or other commercial storage solutions. While these feature may not be the keystones to providing long-term access to your data, they can help you share your data more frequently and effectively
 
-- [Comparative Overview of Features](https://dataverse.org/blog/comparative-review-various-data-repositories)
+- [Comparative Overview of Features](https://docs.google.com/spreadsheets/d/1KptHzDHIdB3s1v5m1mMwphcwXhOVWdkRYdjEWW1dqrE/edit#gid=355072175)
 
 - You’ll want to review the upload and storage limits. Some repositories offer limited free storage before a fee is charged. Be sure to look over each data repository’s features and compare them with comparable services.
 
@@ -93,7 +92,7 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 - Be sure to take a look at the repositories documentation to ensure they can store the data you’ve generated
 
-- Does the repository provide a way to preview data/scripts? i.e., ipynb in Github
+- Does the repository provide a way to preview data/scripts? i.e., rendering .ipynb in Github
 
 #### Rights
 
@@ -115,11 +114,17 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 ![](https://pbs.twimg.com/media/DqGmSvLWsAAzAxn.jpg)
 
+  -[some cool ideas floating around](https://github.com/IQSS/dataverse/issues/4714)
+
 - [UC Dash](https://dash.berkeley.edu/stash) is an open-source, self-service toolkit for managing, openly publishing, and effectively describing data for access and reuse. Dash features geolocation metadata, ORCID, DOI, and FundRef identifiers, and generates a citation for all of your datasets. Additionally, Dash allows you to set a timed-release of data while undergoing peer-review.
 
 - [Zenodo](https://zenodo.org/): Funded by [CERN](http://home.cern/), [OpenAIRE](https://www.openaire.eu/), and [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
   - Zenodo accepts [50GB per dataset](https://zenodo.org/faq) and [integrates nicely with GitHub](https://guides.github.com/activities/citable-code/). While Zenodo doens’t seem to detail its download numbers like other services, it is partnered with CERN, which stores more than 100PB (petabytes) of data.
   - Starting to archive some of the lessons/modules created in the [Division of Data Sciences](https://zenodo.org/communities/berkeley-data-sciences/)
+
+- [Open Science Framework](https://osf.io/) integrates with major storage workflows like Github, Google Drive, Box, etc.
+
+![](https://cdn.cos.io/media/images/new-lifecycle.original.png)
 
 ### Subject repositories
 
@@ -161,8 +166,16 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
   - Check out the [vignettes](https://cran.r-project.org/web/packages/dataverse/vignettes/A-introduction.html) for more
 
 
-## Getting help
+
+## On your own
+
+Using the [Comparative Overview of Features](https://docs.google.com/spreadsheets/d/1KptHzDHIdB3s1v5m1mMwphcwXhOVWdkRYdjEWW1dqrE/edit#gid=355072175) document as a template, think about your own research and the kind of repository (general vs. specific) that makes the most sense for your archival needs.
+
+
+## Contacts
 
 https://researchdata.berkeley.edu/
+
 http://dlab.berkeley.edu/
+
 https://www.cdlib.org/services/uc3/dash.html
