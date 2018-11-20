@@ -36,11 +36,11 @@ From [Registry of Research Data Repositories](https://www.re3data.org/):
 
 
 
-## A minimum rationale for depositing/sharing...
+## A simplified rationale for depositing/sharing...
 
 1. Sharing your data gives you credit for your work that everyone can see
 
-2. Your hard work will persist and be discoverable
+2. Your hard work will persist for yourself and others
 
 ... fulfills the most basic components of [F.A.I.R principles](https://www.go-fair.org/fair-principles/) for scientific data
 
@@ -174,8 +174,8 @@ Using the [Comparative Overview of Features](https://docs.google.com/spreadsheet
 
 ## Contacts
 
-https://researchdata.berkeley.edu/
+[Researchdata@Berkeley](https://researchdata.berkeley.edu/)
 
-http://dlab.berkeley.edu/
+[D-Lab](http://dlab.berkeley.edu/)
 
-https://www.cdlib.org/services/uc3/dash.html
+[California Digital Library](https://www.cdlib.org/services/uc3/dash.html)
